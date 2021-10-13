@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/baitap/CopyFile/CopyFile.iml" filepath="$PROJECT_DIR$/baitap/CopyFile/CopyFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thuchanh/MaxInFile/MaxInFile.iml" filepath="$PROJECT_DIR$/thuchanh/MaxInFile/MaxInFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap/ReadCSV/ReadCSV.iml" filepath="$PROJECT_DIR$/baitap/ReadCSV/ReadCSV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thuchanh/SumInFile/SumInFile.iml" filepath="$PROJECT_DIR$/thuchanh/SumInFile/SumInFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/buoi16_DocGhiFile.iml" filepath="$PROJECT_DIR$/.idea/buoi16_DocGhiFile.iml" />
+    </modules>
+  </component>
+</project>

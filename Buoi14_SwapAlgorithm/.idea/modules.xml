@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/thuchanh/BubbleSortByStep/BubbleSortByStep.iml" filepath="$PROJECT_DIR$/thuchanh/BubbleSortByStep/BubbleSortByStep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Buoi14_SwapAlgorithm.iml" filepath="$PROJECT_DIR$/.idea/Buoi14_SwapAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thuchanh/bubbleSort/bubbleSort.iml" filepath="$PROJECT_DIR$/thuchanh/bubbleSort/bubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap/insertionSort/insertionSort.iml" filepath="$PROJECT_DIR$/baitap/insertionSort/insertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap/insertionSortByStep/insertionSortByStep.iml" filepath="$PROJECT_DIR$/baitap/insertionSortByStep/insertionSortByStep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thuchanh/selectionSort/selectionSort.iml" filepath="$PROJECT_DIR$/thuchanh/selectionSort/selectionSort.iml" />
+    </modules>
+  </component>
+</project>
